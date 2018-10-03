@@ -1,0 +1,21 @@
+header{
+	background-image: url(images/courtbg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: all;
+	height: 600px;
+}
+nav{
+	background-color: #e03145;
+}
+nav .row .col:hover{
+	background-color: #ff6d7e;
+}
+img{
+	width: 100%;
+}
+h1{
+	color: red
+	text-align: center;
+}
+h2 { background-color: yellow; }
