@@ -24,4 +24,5 @@ h2 { background-color: yellow;
 h3 { color: blue;
 	 text-align: right; 
 	font-family: "Comic Sans MS", cursive, sans-serif;}
-p{ background-color: green; color: white;  }	
+p{ background-color: green; color: white;  }
+h1{font-size:120px} 	
